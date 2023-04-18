@@ -1,0 +1,48 @@
+/* .progress{
+    color: yellow;
+} */
+.lee{
+    background-color: yellow;
+    height: 3px;
+    transition: 0.6s;
+    /* animation: le 20s linear; */
+    /* -webkit-animation-play-state: running; */
+}
+
+.mm{
+    background-color: gray;
+    width: 100%;
+    height: 1px;
+}
+#mur{
+    height: 4px;
+    animation: kp 10s infinite;
+}
+
+h2:hover{
+   color: grey!important;
+   /* animation: le 4s infinite; */
+}
+@keyframes kp {
+    0%{
+        background-color: saddlebrown;
+        width: 50%;
+    }
+    50%{
+        background-color: darkblue;
+        width: 70%;
+    }
+    100%{
+        background-color: darkblue;
+        width:100%;
+    }
+    
+}
+
+/* .content:hover{
+background-color: green;
+}
+.content:hover ~ .lee{
+    background-color: red!important;
+}
+ */

@@ -1,0 +1,14 @@
+.hello{
+    animation: name 4s infinite;
+    
+}
+.hello::after{
+    background: magenta;
+}
+.hello:hover{
+    transition: all 1s ease-out;
+    background-color: saddlebrown;
+}
+@keyframes name{
+   
+}

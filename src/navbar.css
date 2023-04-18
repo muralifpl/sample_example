@@ -1,0 +1,12 @@
+li{
+    list-style-type: none;
+}
+.hello div{
+    margin: 10px;
+    font-size: 1.2rem;
+}
+.hello span{
+    height: 27px;
+    width: 2px;
+    margin-top: 3.4%;
+}
